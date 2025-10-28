@@ -1,1 +1,1 @@
-Studio Accademico Riguardante il linguaccio C
+Studio Accademico Riguardante il linguaggio C
