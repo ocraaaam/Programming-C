@@ -1,1 +1,1 @@
-# Programming
+Studio Accademico Riguardante il linguaccio C
