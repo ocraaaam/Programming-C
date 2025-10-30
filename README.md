@@ -1,37 +1,40 @@
-# 🧠 Programmazione 1 — Laboratori in C
+# 🧠 Programming 1 — Lab Exercises in C
 
-Questo repository raccoglie **tutto il materiale relativo alle prove di laboratorio del corso di Programmazione 1**, svolte durante l’anno accademico.
+This repository contains **all the lab exercises and materials from the Programming 1 course**, written in the C programming language.
 
-## 📂 Contenuto
-All’interno troverai:
-- Esercizi di laboratorio svolti in **linguaggio C**
-- Soluzioni commentate e spiegate passo per passo
-- Appunti e codice di esempio per il ripasso
-- Piccoli progetti e test utili per la preparazione all’esame
+## 📂 Contents
+Inside you will find:
+- Programming 1 lab exercises in **C**
+- Fully commented and step-by-step explained solutions
+- Example code for revision
+- Small practice projects and test programs
 
-## 🧩 Argomenti principali
-- Tipi di dato, variabili e operatori
-- Strutture di controllo (`if`, `while`, `for`, `switch`)
-- Array e stringhe
-- Puntatori e allocazione dinamica
-- Strutture (`struct`) e file
-- Liste concatenate e gestione dinamica dei dati
+## 🧩 Main Topics
+- Data types, variables, and operators  
+- Control structures (`if`, `while`, `for`, `switch`)  
+- Arrays and strings  
+- Pointers and dynamic memory allocation  
+- Structures (`struct`) and file handling  
+- Linked lists and dynamic data management  
 
-## 🧰 Requisiti
-Per compilare ed eseguire i programmi:
-- Un compilatore C (es. `gcc`)
-- Un ambiente di sviluppo come:
-  - Visual Studio Code
-  - Code::Blocks
-  - oppure il terminale con `gcc file.c -o file && ./file`
+## 🧰 Requirements
+To compile and run the programs:
+- A C compiler (e.g., `gcc`)
+- A development environment such as:
+  - Visual Studio Code  
+  - Code::Blocks  
+  - Or simply the terminal with:  
+    ```bash
+    gcc file.c -o file && ./file
+    ```
 
-## 🎯 Obiettivo
-Il repository serve come **archivio di studio e riferimento personale**, utile per:
-- Ripassare la teoria con esempi pratici
-- Capire passo dopo passo come risolvere le prove di laboratorio
-- Prepararsi al meglio all’esame di **Programmazione 1**
+## 🎯 Purpose
+This repository serves as a **personal study archive and reference**, useful for:
+- Reviewing theory through practical examples  
+- Understanding step-by-step how to solve lab problems  
+- Preparing effectively for the **Programming 1 exam**
 
 ---
 
-📚 *Autore: Marco Scalisi*  
-🎓 *Corso di Laurea in Informatica – Università degli Studi di Catania*
+📚 *Author: Marco Scalisi*  
+🎓 *B.Sc. in Computer Science — University of Catania*
